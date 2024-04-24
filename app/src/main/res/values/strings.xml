@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatorEG2</string>
+    <string name="add">Add</string>
+    <string name="subtract">Sutract</string>
+    <string name="Multiply">Multiply</string>
+    <string name="Divide">Divide</string>
+    <string name="sqr_root">Square root</string>
+    <string name="pow">Power of</string>
+</resources>
